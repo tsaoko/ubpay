@@ -1,0 +1,3 @@
+rootProject.name = 'UBPay'
+
+include ':app'
